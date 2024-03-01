@@ -57,8 +57,6 @@ def get_job_search_dict():
             else:
                 salary_range = job_info_soup.find("div", class_="vacancy-title").find_all('span')[0].text.strip().replace('\xa0', ' ')
 
-            #salary_range = job_info_soup.find("div", class_="vacancy-title").findNext('span', class_='bloko-header-section-2 bloko-header-section-2_lite').text.replace('\xa0', ' ')
-
             city_name_tag = job_info_soup.find("div", class_='vacancy-company-redesigned').find('p')
 
             if bool(city_name_tag) == True:
@@ -81,24 +79,24 @@ def get_job_search_dict():
             print(vacancy_dict)
             job_search_parsed.append(vacancy_dict)
 
-    print(f'Данные загружены в словарь. Всего загружено {len(job_search_parsed)} вакансий.')
+    print(f'Данные готовы для заливки в файл. Всего собрано {len(job_search_parsed)} вакансий.')
     return job_search_parsed
 
 print(get_job_search_dict())
 
 def get_json():
     with open('job_search_parsed.json', 'w', encoding='utf-8') as file:
-        json_data = file.write(json.dumps(job_search_parsed, indent=4))
+        json_data = file.write(json.dumps(job_search_parsed, indent=4, ensure_ascii=False))
     return 'Данные загружены в файл job_search_parsed.json', json_data
 
 print(get_json())
 
-def get_json_print():
+def get_json2print():
     with open('job_search_parsed.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         pprint(data)
         print(json.dumps(data, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ': ')))
         return f'Всего загружено {len(data)} вакансий'
 
-print(get_json_print())
+print(get_json2print())
 
