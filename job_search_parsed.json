@@ -1,208 +1,230 @@
 [
     {
-        "job description": "https://spb.hh.ru/vacancy/93089691?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 300 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "Hyper AdTech",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4855149?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/94029854?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "BI.ZONE \u041d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/2367681?dpt=2367681-2367681-dev&hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/94032678?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "DSSL",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/2888?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/94032679?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "DSSL",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/2888?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/72687504?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 150 000 \u0434\u043e 200 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "\u041e\u041e\u041e \u0421\u0435\u043b\u0444\u0441\u0435\u043a",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4920624?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/91413225?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u042f\u043d\u0434\u0435\u043a\u0441 \u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/5008932?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/92547040?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 70 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "\u041e\u041e\u041e \u041b\u0418\u0413\u0420\u0415\u0421",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4919467?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/92547113?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 100 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "\u041e\u041e\u041e \u041b\u0418\u0413\u0420\u0415\u0421",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4919467?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/93157975?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "AldanDev",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/10528952?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/86071635?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0445 \u043a\u0430\u0440\u0442",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/1654251?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/93339796?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 150 000 \u0434\u043e 220 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
-        "company name": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u041d\u0430\u0443\u0447\u043d\u043e-\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0410\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0421\u0438\u0441\u0442\u0435\u043c",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/1626408?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/92478871?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 180 000 \u0434\u043e 230 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "\u0418\u041f \u0417\u0443\u0431\u0447\u0435\u043d\u043a\u043e \u0412\u0435\u0440\u043e\u043d\u0438\u043a\u0430 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043d\u0430",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/10732853?hhtmFrom=vacancy_search_list"
-    },
-    {
-        "job description": "https://spb.hh.ru/vacancy/92627503?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u0434\u043e 120 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
-        "company name": "\u041e\u041e\u041e \u0418\u043c\u043f\u0435\u0440\u043a\u043e\u043c",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/10339727?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Python \u043c\u0435\u043d\u0442\u043e\u0440",
         "job description": "https://spb.hh.ru/vacancy/92761145?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "ITM-Space",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/9613082?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/92323149?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 200 000 \u0434\u043e 350 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "Carbon Soft",
-        "city name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
-        "company profile": "https://spb.hh.ru/employer/1204987?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Python developer",
         "job description": "https://spb.hh.ru/vacancy/93048944?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 250 000 \u0434\u043e 320 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
         "company name": "MIA Dev",
-        "city name": "\u0418\u0432\u0430\u043d\u043e\u0432\u043e (\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/10726435?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/92540892?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0431\u0438\u043b\u0430\u0439\u043d",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4934?hhtmFrom=vacancy_search_list"
+        "job title": "Backend developer Python (Senior) / \u0411\u044d\u043a\u0435\u043d\u0434-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+        "job description": "https://spb.hh.ru/vacancy/94107180?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u041e\u041e\u041e \u0421\u0422\u041c",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/607605?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93158923?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u041e\u041e\u041e \u0414\u0430\u043a\u043e\u043c \u041c",
+        "job title": "Lead Python developer",
+        "job description": "https://spb.hh.ru/vacancy/93474550?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "OneTwoTrip",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/9887020?hhtmFrom=vacancy_search_list"
+        "company profile": "https://spb.hh.ru/employer/914908?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93628858?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 250 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
-        "company name": "B.ART",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/9352347?hhtmFrom=vacancy_search_list"
+        "job title": "Senior Python developer (Django/Flask) \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u043e\u0444\u0438\u0441\u0435",
+        "job description": "https://spb.hh.ru/vacancy/93089691?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 300 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "Hyper AdTech",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/4855149?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93877410?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u041e\u041e\u041e \u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0438\u043a\u0441",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/65772?hhtmFrom=vacancy_search_list"
+        "job title": "Team lead Python",
+        "job description": "https://spb.hh.ru/vacancy/93559599?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 350 000 \u0434\u043e 450 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u0422\u0440\u0438\u0430\u0444\u043b\u0430\u0439",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/4514966?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/94032884?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "job title": "Senior Python Developer",
+        "job description": "https://spb.hh.ru/vacancy/91460286?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u041e\u041e\u041e \u0411\u0440\u0438\u0441\u0442\u043e\u043b\u044c, \u0441\u0435\u0442\u044c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/1189320?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Backend Developer (Python)",
+        "job description": "https://spb.hh.ru/vacancy/93809121?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "HuntIT",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/9757724?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Python Developer (Tools)",
+        "job description": "https://spb.hh.ru/vacancy/93804537?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "Lesta Games",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/856498?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle Backend \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python / Middle Python Backend Developer",
+        "job description": "https://spb.hh.ru/vacancy/93238507?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 150 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u0418\u041f \u0421\u0435\u043c\u0431\u0430\u0435\u0432 \u0410\u043d\u0434\u0440\u0435\u0439 \u0410\u0431\u0430\u0439\u0435\u0432\u0438\u0447",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433,",
+        "company profile": "https://spb.hh.ru/employer/5310986?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Senior Python developer (SOC)",
+        "job description": "https://spb.hh.ru/vacancy/94029854?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "BI.ZONE \u041d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/2367681?dpt=2367681-2367681-dev&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 AI",
+        "job description": "https://spb.hh.ru/vacancy/94032678?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "DSSL",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/2888?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93091191?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "DSSL",
-        "company name": "\u0414\u0430\u043b\u0435\u0435",
+        "job title": "Middle Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 AI",
+        "job description": "https://spb.hh.ru/vacancy/94032679?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "DSSL",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/2888?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle Python developer",
+        "job description": "https://spb.hh.ru/vacancy/72687504?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 150 000 \u0434\u043e 200 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u041e\u041e\u041e \u0421\u0435\u043b\u0444\u0441\u0435\u043a",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/4920624?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (Support)",
+        "job description": "https://spb.hh.ru/vacancy/92547040?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 70 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u041e\u041e\u041e \u041b\u0418\u0413\u0420\u0415\u0421",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/4919467?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle Python developer",
+        "job description": "https://spb.hh.ru/vacancy/92547113?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 100 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u041e\u041e\u041e \u041b\u0418\u0413\u0420\u0415\u0421",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/4919467?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle python developer",
+        "job description": "https://spb.hh.ru/vacancy/93157975?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "AldanDev",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/10528952?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 (Python)",
+        "job description": "https://spb.hh.ru/vacancy/86071635?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0445 \u043a\u0430\u0440\u0442",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/1654251?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "\u041d\u0430\u0441\u0442\u0430\u0432\u043d\u0438\u043a \u043d\u0430 \u043a\u0443\u0440\u0441 \u201cMiddle Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u201d",
+        "job description": "https://spb.hh.ru/vacancy/91413225?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u042f\u043d\u0434\u0435\u043a\u0441 \u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/5008932?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Middle \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 React/django",
+        "job description": "https://spb.hh.ru/vacancy/92627503?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0434\u043e 120 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
+        "company name": "\u041e\u041e\u041e \u0418\u043c\u043f\u0435\u0440\u043a\u043e\u043c",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
+        "company profile": "https://spb.hh.ru/employer/10339727?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Front-end \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Vue.js)",
+        "job description": "https://spb.hh.ru/vacancy/93585734?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 90 000 \u0434\u043e 150 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
+        "company name": "\u0410\u0424\u041a, \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "company profile": "https://spb.hh.ru/employer/58666?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "job description": "https://spb.hh.ru/vacancy/93091191?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 250 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u0414\u0430\u043b\u0435\u0435",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/40754?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93701109?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 250 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
-        "company name": "\u041e\u041e\u041e Gstudio",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/1904787?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "job description": "https://spb.hh.ru/vacancy/89995481?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c - \u0426\u0435\u043d\u0442\u0440\u044b \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u0430\u043d\u043d\u044b\u0445",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/852361?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a / Python-developer",
         "job description": "https://spb.hh.ru/vacancy/93083082?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u041d\u0430\u0432\u0438\u0433\u0430\u0442\u043e\u0440",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433,",
         "company profile": "https://spb.hh.ru/employer/36006?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 Python \u0432 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0443\u044e \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443",
         "job description": "https://spb.hh.ru/vacancy/92031036?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u042f\u043d\u0434\u0435\u043a\u0441",
         "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
         "company profile": "https://spb.hh.ru/employer/1740?dpt=yandex-1740-yandex&hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 Python \u0432 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0443\u044e \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443",
         "job description": "https://spb.hh.ru/vacancy/92031035?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u042f\u043d\u0434\u0435\u043a\u0441",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/1740?dpt=yandex-1740-yandex&hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python)",
         "job description": "https://spb.hh.ru/vacancy/93203760?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u041e\u041e\u041e \u041c\u043e\u0434\u0443\u043c-\u0422\u0440\u0430\u043d\u0441",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/814087?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "job description": "https://spb.hh.ru/vacancy/92951527?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "UCGP Consult",
-        "city name": "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/4911172?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (+ Go)",
         "job description": "https://spb.hh.ru/vacancy/93297015?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u0434\u043e 500 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
         "company name": "Wanted",
@@ -210,125 +232,143 @@
         "company profile": "https://spb.hh.ru/employer/5174849?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/91413450?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0426\u0420\u0422 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/4585?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Senior Python Backend developer / \u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 (Testing Tools)",
         "job description": "https://spb.hh.ru/vacancy/93441792?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "YADRO",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433,",
         "company profile": "https://spb.hh.ru/employer/1993194?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/91673918?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0421\u0431\u0435\u0440 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "job description": "https://spb.hh.ru/vacancy/92889895?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u041b\u0438\u0433\u0430 \u0426\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/2733062?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/93211717?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0410\u041e \u0410\u0421\u0422",
+        "job title": "Senior Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "job description": "https://spb.hh.ru/vacancy/91673918?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u0421\u0431\u0435\u0440 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Senior/Middle Python Developer",
+        "job description": "https://spb.hh.ru/vacancy/91413450?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u0426\u0420\u0422 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/4585?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Fullstack developer (JS, Python)",
+        "job description": "https://spb.hh.ru/vacancy/93211717?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u0410\u041e \u0410\u0421\u0422",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/24947?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u041a\u043e\u043c\u0430\u043d\u0434\u0430 MXDR)",
         "job description": "https://spb.hh.ru/vacancy/91795094?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "F.A.C.C.T.",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/653947?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Fullstack python developer (ESC)",
         "job description": "https://spb.hh.ru/vacancy/93142619?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "Positive Technologies",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
         "company profile": "https://spb.hh.ru/employer/26624?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Fullstack python developer (ESC)",
         "job description": "https://spb.hh.ru/vacancy/91827540?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "Positive Technologies",
         "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/26624?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/92895011?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "\u043e\u0442 180 000 \u0434\u043e 250 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
-        "company name": "\u041e\u041e\u041e \u0420\u0410 \u0414\u0435\u043b\u044c\u0442\u0430",
-        "city name": "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434",
-        "company profile": "https://spb.hh.ru/employer/4747821?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Senior Python developer \u043d\u0430 \u043f\u0440\u043e\u0435\u043a\u0442 InfraCloud",
         "job description": "https://spb.hh.ru/vacancy/93292562?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 380 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
         "company name": "\u0421\u0431\u0435\u0440 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432",
-        "city name": "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/91412798?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u041e\u041e\u041e \u0413\u0430\u0437\u043f\u0440\u043e\u043c \u0426\u041f\u0421",
+        "job title": "Middle Python developer",
+        "job description": "https://spb.hh.ru/vacancy/92915494?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u043e\u0442 150 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
+        "company name": "\u041e\u041e\u041e \u0421\u043e\u043b\u043e\u043c\u043e\u043d",
         "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-        "company profile": "https://spb.hh.ru/employer/5778059?hhtmFrom=vacancy_search_list"
+        "company profile": "https://spb.hh.ru/employer/2378440?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u041f\u043e\u0440\u0442\u0430\u043b\u0430 \u0414\u0418",
+        "job description": "https://spb.hh.ru/vacancy/93292351?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u0421\u0431\u0435\u0440 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "PHP-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "job description": "https://spb.hh.ru/vacancy/93172341?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0418\u041f \u0416\u0443\u0440\u0430\u0432\u043b\u0435\u0432\u0430 \u0415\u043b\u0435\u043d\u0430 \u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043d\u0430",
-        "city name": "\u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
         "company profile": "https://spb.hh.ru/employer/2600274?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Java, Spring)",
         "job description": "https://spb.hh.ru/vacancy/93302856?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 200 000 \u0434\u043e 300 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
         "company name": "\u041e\u041e\u041e \u0422\u0430\u043c\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u0430",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/90950?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Junior DevOPS \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
         "job description": "https://spb.hh.ru/vacancy/92934530?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 50 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
         "company name": "\u041e\u041e\u041e \u0412\u0438\u0441\u0442\u0430",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433,",
         "company profile": "https://spb.hh.ru/employer/1684993?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044e",
         "job description": "https://spb.hh.ru/vacancy/93160831?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0421\u0431\u0435\u0440 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/3529?dpt=3529-3529-prof&hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "ML-ops \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
         "job description": "https://spb.hh.ru/vacancy/93066834?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0410\u0422\u041e\u041c",
         "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
         "company profile": "https://spb.hh.ru/employer/5912977?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "ML-ops \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
         "job description": "https://spb.hh.ru/vacancy/93066483?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0410\u0422\u041e\u041c",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/5912977?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Full stack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "job description": "https://spb.hh.ru/vacancy/93051383?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 150 000 \u0434\u043e 200 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
         "company name": "\u0422\u0435\u043d\u0437\u043e\u0440",
@@ -336,13 +376,23 @@
         "company profile": "https://spb.hh.ru/employer/67611?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Phyton Developer (Middle|Senior)",
         "job description": "https://spb.hh.ru/vacancy/92485053?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u0413\u041a \u0424\u0421\u041a",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430,",
         "company profile": "https://spb.hh.ru/employer/131398?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 [\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0438 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u043e\u043f\u044b\u0442\u0430]",
+        "job description": "https://spb.hh.ru/vacancy/92821041?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+        "company name": "\u041f\u0410\u041e \u00ab\u041c\u0422\u0421\u00bb ",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "company profile": "https://spb.hh.ru/employer/3776?dpt=mts-3776-main&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b JaiCP",
         "job description": "https://spb.hh.ru/vacancy/89152769?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u0434\u043e 225 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
         "company name": "Outlines Technologies",
@@ -350,34 +400,23 @@
         "company profile": "https://spb.hh.ru/employer/4305039?hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/92821041?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u041f\u0410\u041e \u00ab\u041c\u0422\u0421\u00bb ",
-        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
-        "company profile": "https://spb.hh.ru/employer/3776?dpt=mts-3776-main&hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Full Stack Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a / PHP-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 (\u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
         "job description": "https://spb.hh.ru/vacancy/93131040?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 70 000 \u0434\u043e 130 000 \u20bd \u043d\u0430 \u0440\u0443\u043a\u0438",
         "company name": "SArt Technologies, Ltd",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/10787787?hhtmFrom=vacancy_search_list"
     },
     {
+        "job title": "Data Engineer",
         "job description": "https://spb.hh.ru/vacancy/89216786?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
+        "salary range": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
         "company name": "\u041c\u0422\u0421 \u0411\u0430\u043d\u043a. IT",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "city name": "\u041c\u043e\u0441\u043a\u0432\u0430",
         "company profile": "https://spb.hh.ru/employer/4496?dpt=4496-4496-it&hhtmFrom=vacancy_search_list"
     },
     {
-        "job description": "https://spb.hh.ru/vacancy/92428638?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "-",
-        "company name": "\u0415\u0414\u0418\u041d\u042b\u0419 \u0426\u0423\u041f\u0418\u0421",
-        "city name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-        "company profile": "https://spb.hh.ru/employer/2590000?hhtmFrom=vacancy_search_list"
-    },
-    {
+        "job title": "Lead/Senior Backend Developer",
         "job description": "https://spb.hh.ru/vacancy/92655967?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "\u043e\u0442 400 000 \u0434\u043e 500 000 \u20bd \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
         "company name": "Radium Finance",
