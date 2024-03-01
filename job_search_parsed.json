@@ -160,20 +160,20 @@
         "company profile": "https://spb.hh.ru/employer/5008932?hhtmFrom=vacancy_search_list"
     },
     {
-        "job title": "Front-end разработчик (Vue.js)",
-        "job description": "https://spb.hh.ru/vacancy/93585734?query=python+django+flask&hhtmFrom=vacancy_search_list",
-        "salary range": "от 90 000 до 150 000 ₽ до вычета налогов",
-        "company name": "АФК, группа компаний",
-        "city name": "Санкт-Петербург",
-        "company profile": "https://spb.hh.ru/employer/58666?hhtmFrom=vacancy_search_list"
-    },
-    {
         "job title": "Python-разработчик",
         "job description": "https://spb.hh.ru/vacancy/93091191?query=python+django+flask&hhtmFrom=vacancy_search_list",
         "salary range": "от 250 000 ₽ на руки",
         "company name": "Далее",
         "city name": "Москва,",
         "company profile": "https://spb.hh.ru/employer/40754?hhtmFrom=vacancy_search_list"
+    },
+    {
+        "job title": "Front-end разработчик (Vue.js)",
+        "job description": "https://spb.hh.ru/vacancy/93585734?query=python+django+flask&hhtmFrom=vacancy_search_list",
+        "salary range": "от 90 000 до 150 000 ₽ до вычета налогов",
+        "company name": "АФК, группа компаний",
+        "city name": "Санкт-Петербург",
+        "company profile": "https://spb.hh.ru/employer/58666?hhtmFrom=vacancy_search_list"
     },
     {
         "job title": "Python-разработчик",
